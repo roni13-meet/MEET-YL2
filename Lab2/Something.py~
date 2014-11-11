@@ -1,0 +1,13 @@
+class animal():
+	name = ""
+	age = 0
+	def __init__(self, name, age):
+		self.age = age
+		self.name = name
+	def sleep(self):
+		self.name = name
+		self.age = age
+	def eat(self):
+		self.name = name
+		self.age = age
+	
